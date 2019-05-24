@@ -97,7 +97,7 @@ namespace BongoPracticalExam
         {
             if (CurrentNode == null) { return null; }
 
-            if (CurrentNode.Data == x || CurrentNode.Data == y) { return RootNode; }
+            if (CurrentNode.Data == x || CurrentNode.Data == y) { return CurrentNode; }
 
             Node SearchLeftNode = LCA(CurrentNode.LeftNode, x, y);
             Node SearchRighttNode = LCA(CurrentNode.RightNode, x, y);
