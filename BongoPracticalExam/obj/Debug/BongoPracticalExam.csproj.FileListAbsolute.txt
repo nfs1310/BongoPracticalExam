@@ -1,0 +1,8 @@
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\bin\Debug\BongoPracticalExam.exe.config
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\bin\Debug\BongoPracticalExam.exe
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\bin\Debug\BongoPracticalExam.pdb
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\bin\Debug\Newtonsoft.Json.dll
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\bin\Debug\Newtonsoft.Json.xml
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\obj\Debug\BongoPracticalExam.csprojResolveAssemblyReference.cache
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\obj\Debug\BongoPracticalExam.exe
+G:\sTUDY\Visual Studio 2013\Projects\BongoPracticalExam\BongoPracticalExam\obj\Debug\BongoPracticalExam.pdb
